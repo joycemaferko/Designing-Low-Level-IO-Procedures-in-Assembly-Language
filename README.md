@@ -1,9 +1,7 @@
 # Designing-Low-Level-IO-Procedures-in-Assembly-Language
 Program uses Microsoft Macro Assembler (MASM) assembly language to design and implement low-level I/O procedures for x86 processors
 
-Author: Matt Joyce
-Date: 06/07/2020
-Email: joycema@oregonstate.edu
+Author: Matt Joyce / Date: 06/07/2020 / Email: joycema@oregonstate.edu
 
 Description: The program will 1) Design and implement new ReadVal (input) and WriteVal (output) procedures 
 for signed integers. 2) Design and implement macros getString and displayString to facilitate new I/O procedures. 
